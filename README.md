@@ -20,6 +20,7 @@ A compilation of tools that will be included for my install of Arch.
 * https://github.com/charmbracelet/gum - Glamorous Shell Scripts
 * https://github.com/8go/matrix-commander - Matrix terminal client written in Python
 * https://github.com/ayn2op/discordo - Discord Terminal client
+* https://github.com/kraanzu/dooit - Tool for To Do Lists
 
 ## Designs
 * https://github.com/ful1e5/Bibata_Cursor
