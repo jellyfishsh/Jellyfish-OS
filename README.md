@@ -11,7 +11,7 @@ A compilation of tools that will be included for my install of Arch.
 * https://github.com/sayanarijit/xplr - File Manager
 * https://github.com/kovidgoyal/kitty - Terminal Emulator
 * https://github.com/qtile/qtile/ - Window Manager written in Python
-* https://github.com/coastalwhite/lemurs - Login Manager
+* https://github.com/sddm/sddm - Login Manager
 
 ## Extra Tools
 * https://github.com/BetaPictoris/book - EBook CLI
